@@ -1,2 +1,3 @@
 Hello Git!
 Version 2 of the file.
+This line was added in new-feature branch.
